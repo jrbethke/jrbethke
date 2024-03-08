@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I Love to read fantasy series and I compete in the Highland Games 
 
  ___________________________________________________________________________________________________________________________________
-<img src="https://tryhackme-badges.s3.amazonaws.com/jrbethke.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/2780857"></script>
 <!---
 jrbethke/jrbethke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
