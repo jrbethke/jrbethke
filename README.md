@@ -5,7 +5,7 @@
 ## 
 - 👀 I’m currently working as a Technology Support Specialist for Bentonville School Disctrict
 - 🌱 I’m currently learning Python, Networking, Security, and Devops
-- ⚡ Fun fact: Love reading fantasy series and I compete in the Highland Games 
+- ⚡ Fun fact: I Love to read fantasy series and I compete in the Highland Games 
 
  ___________________________________________________________________________________________________________________________________
 ![tryhackme stats](https://raw.githubusercontent.com/jrbethke/jrbethke/master/assets/thm_propic.png)
