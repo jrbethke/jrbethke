@@ -3,7 +3,7 @@
 
 - I love making movie references, learning, reading, and being active
 ## 
-- 👀 I’m currently working as a Technology Support Specialist for Bentonville School Disctrict
+- 👀 I’m currently working as a Help Desk Technician for Compsys, inc
 - 🌱 I’m currently learning Python, Networking, Security, and Devops
 - ⚡ Fun fact: I Love to read fantasy series and I compete in the Highland Games 
 _______________________________________________________________________________________________________________________________
