@@ -4,7 +4,7 @@
 - I love making movie references, learning, reading, and being active
 ## 
 - 👀 I’m currently working as a Help Desk Technician for Compsys, inc
-- 🌱 I’m currently learning Python, Networking, Security, and Devops
+- 🌱 I’m currently learning Python, Powershell, M365, and Proxmox
 - ⚡ Fun fact: I Love to read fantasy series and I compete in the Highland Games 
 _______________________________________________________________________________________________________________________________
  [![tryhackme Badge](https://github.com/jrbethke/jrbethke/blob/main/assets/tryhackmeBadge.png)](https://tryhackme.com/p/jrbethke)
